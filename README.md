@@ -1,7 +1,8 @@
 # PranavKumarAV.github.io
- Delta\Task2\HackerMode
+ 
+Task 2 : ColorSwitch (HACKER Mode)
 
-Code which I did for my college club induction: Task 2 : HACKER Mode:
+Code which I did for my college club induction: Task 2 : 
 
 Problem Statement:
 
@@ -10,6 +11,9 @@ Bharath has found his speed tester, and has assigned him his work. Bharath now s
 Hacker mode:(Requirements)
 
  (i)   Update the high scores in real time.
+ 
  (ii)  Have more than two colours and add a mechanism to switch the colour of the ball.
+ 
  (iii) Make buttons to pause and resume the game at any point.
+ 
  (iv)  Increase game difficulty by increasing the speed of rotation and direction of movement of obstacles.
